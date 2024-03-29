@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @dylanblueb
+- 👋 Hi, I’m @dylan blue
 - 👀 I’m interested in AGI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning prompt
+- ⚡ Fun fact: Language is magic
 
 <!---
 dylanblueb/dylanblueb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
